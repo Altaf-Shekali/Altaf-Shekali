@@ -14,7 +14,7 @@
 
 ## 🚀 Projects I'm Working On
 
-- 🔧 [**Smart StudyBot+**](https://github.com/Altaf-Shekali/Smart-StudyBot) – AI-powered RAG chatbot for study support, citation, and multi-PDF knowledge base.
+- 🔧 [**Smart StudyBot+**](https://github.com/Altaf-Shekali/Smart-StudyBot-) – AI-powered RAG chatbot for study support, citation, and multi-PDF knowledge base.
 - 🍽️ [**KhanaKhazana**](https://github.com/Altaf-Shekali/KhanaKhazana) – Meal subscription and collaboration platform for students and professionals.
 - 🛡️ **ScamGuard** – Scam detection and awareness tool for Gen Z. *(Coming soon!)*
 - 🧠 **LegalDoc AI** – AI-based legal document generator for common use cases. *(In development)*
